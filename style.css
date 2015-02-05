@@ -1,3 +1,7 @@
+.c3-axis-y-label {
+    font-size: 20px;
+}
+
 @media screen and ( min-height: 480px ){
     #chart {
         height: 480px;
