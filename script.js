@@ -52,6 +52,12 @@
                         tick: {
                             format: '%Y-%m-%d'
                         }
+                    },
+                    y: {
+                        label: {
+                            text: "euro",
+                            position: 'outer-middle'
+                        }
                     }
                 }
             });
