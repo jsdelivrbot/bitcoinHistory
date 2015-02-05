@@ -1,3 +1,34 @@
+@media screen and ( min-height: 480px ){
+    #chart {
+        height: 480px;
+    }
+}
+@media screen and ( min-height: 640px ){
+    #chart {
+        height: 640px;
+    }
+}
+@media screen and ( min-height: 800px ){
+    #chart {
+        height: 800px;
+    }
+}
+@media screen and ( min-height: 1024px ){
+    #chart {
+        height: 1024px;
+    }
+}
+@media screen and ( min-height: 1280px ){
+    #chart {
+        height: 1280px;
+    }
+}
+@media screen and ( min-height: 1920px ){
+    #chart {
+        height: 1920px;
+    }
+}
+
 /*-- Chart --*/
 
 .c3 svg {
